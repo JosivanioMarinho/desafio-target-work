@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DesafioTargetWork</string>
+    <string name="toobar_title">Feed de notícias</string>
+    <string name="content_description_image">Imagem da notícia</string>
+</resources>
